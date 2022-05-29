@@ -1,0 +1,20 @@
+{
+  "name": "statepatternfyp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graemeajones/statePatternFYP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graemeajones/statePatternFYP/issues"
+  },
+  "homepage": "https://github.com/graemeajones/statePatternFYP#readme"
+}
